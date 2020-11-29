@@ -6,10 +6,10 @@
 			android:key="about_version"
 			android:title="Version" />
 		<Preference
-			android:summary="© 2011-2014, Andreas Schildbach\n© 2013-2014, Hash Engineering Solutions\n"
+			android:summary="© 2011-2014, Andreas Schildbach\n© 2013-2014, Hash Engineering Solutions\n© 2020-2021, msy2008\n"
 			android:title="Copyright" />
         <Preference
-                android:summary="Version 1.8.6 and above"
+                android:summary="Version 0.8.7.5 and above"
                 android:title="Infinitecoin Compatibility" />
 		<Preference
 			android:key="about_license"

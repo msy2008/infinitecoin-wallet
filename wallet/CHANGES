@@ -1,6 +1,16 @@
 
 Infinitecoin Wallet
 -----------------
+V3.0
+* Update the QR code prefix changed from ifc to infinitecoin to be compatible with block explorers.
+* Update chainz.cryptoid.info as the default block explorer.
+* More nodes added
+* The minimum input is 1000coins, and the fixed rate is 1000coins.
+* As of now, 1000coins is about $0.1, and reasonable handling fees meet the needs of development
+* Encourage the enthusiasm of miners, because infinitecoin has already 0 block rewards and 0 inflation.
+* Chinese translation updated
+* Thanks to the original author HashEngineering
+
 v0.3.3
 * Updated checkpoints.
 

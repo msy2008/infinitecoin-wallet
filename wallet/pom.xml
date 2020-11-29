@@ -7,7 +7,7 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 
-	<version>0.1.4</version>
+	<version>3.0</version>
 	<name>Infinitecoin Wallet</name>
 
 	<parent>
@@ -143,8 +143,8 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
-					<source>1.6</source>
-					<target>1.6</target>
+					<source>1.7</source>
+					<target>1.7</target>
 				</configuration>
 
 			</plugin>
@@ -156,7 +156,7 @@
 						<excludeJarResource>.*\.jar$</excludeJarResource>
 					</excludeJarResources>
 					<sdk>
-						<platform>14</platform>
+						<platform>21</platform>
 					</sdk>
 					<sign>
 						<debug>both</debug>

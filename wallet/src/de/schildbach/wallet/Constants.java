@@ -93,7 +93,7 @@ public class Constants
 	public static final int LOCAL_PRECISION = 8;        //altcoins need more digits in BTC
 
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;
-	public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
+	public static final String REPORT_EMAIL = "msymllyld@gmail.com";
 
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
 	public static final String REPORT_SUBJECT_CRASH = "Crash report";
@@ -102,17 +102,17 @@ public class Constants
 
     public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.38\n";
     public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
-	public static final String SOURCE_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
-	public static final String BINARY_URL = "https://github.com/HashEngineering/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
+	public static final String SOURCE_URL = "https://github.com/msy2008/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
+	public static final String BINARY_URL = "https://github.com/msy2008/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/msy2008/" + CoinDefinition.coinName.toLowerCase() + "j";
 
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://www.infiniteco.in/";
-    public static final String CREDITS_FORUM_URL = "http://infinitecointalk.org/";
+    public static final String CREDITS_WEBSITE_URL = "https://infinitecoin.com/";
+    public static final String CREDITS_FORUM_URL = "https://bitcointalk.org/index.php?topic=356065.new/";
 	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
 
-	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/HashEngineering";
-	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/HashEngineering";
+	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/msy2008";
+	public static final String AUTHOR_GOOGLEPLUS_URL = "https://github.com/msy2008";
 
 	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/communities/105515929887248493912";
 

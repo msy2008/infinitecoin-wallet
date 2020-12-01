@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>IFC, 8位数</item>
+		<item>IFC, 6位数</item>
+		<item>IFC, 4位数</item>
+		<item>mIFC, 2位数</item>
+	</string-array>
+
+</resources>

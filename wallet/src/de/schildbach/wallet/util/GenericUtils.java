@@ -112,7 +112,7 @@ public class GenericUtils
 
 		if (nanoCoins.signum() < 0)
 			throw new ArithmeticException("negative amount: " + value);
-		if (nanoCoins.compareTo(NetworkParameters.MAX_MONEY) > 0)
+		if (nanoCoins.compareTo(NetworkParameters.MAX_MONEY_OUT) > 0)
 			throw new ArithmeticException("amount too large: " + value);
 
 		return nanoCoins;

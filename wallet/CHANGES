@@ -1,6 +1,11 @@
 
 Infinitecoin Wallet
 -----------------
+V3.0.1
+* The minimum input is 1000coins，maximum input 1000000coins,and the fees rate is 1000coins.
+* Only small coins are encouraged to be used in Android mobile wallets, and large amounts should be stored in the computer core wallet.
+* Update Simplified Chinese and Traditional Chinese.
+
 V3.0
 * Update the QR code prefix changed from ifc to infinitecoin to be compatible with block explorers.
 * Update chainz.cryptoid.info as the default block explorer.

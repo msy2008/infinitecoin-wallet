@@ -1,6 +1,9 @@
 
 Infinitecoin Wallet
 -----------------
+V3.0.2
+* Update checkpoints and shorten the first synchronization time to less than 10 minutes.
+
 V3.0.1
 * The minimum input is 1000coins，maximum input 1000000coins,and the fees rate is 1000coins.
 * Only small coins are encouraged to be used in Android mobile wallets, and large amounts should be stored in the computer core wallet.

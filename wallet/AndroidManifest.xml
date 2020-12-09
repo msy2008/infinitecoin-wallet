@@ -5,8 +5,8 @@
 
 	package="de.schildbach.wallet.infinitecoin"
 	android:installLocation="internalOnly"
-	android:versionCode="10037"
-	android:versionName="3.0.2" >
+	android:versionCode="10038"
+	android:versionName="3.0.3" >
 
 
 

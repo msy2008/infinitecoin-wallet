@@ -1,6 +1,12 @@
 
 Infinitecoin Wallet
 -----------------
+V3.0.3
+* fixed issues with fetching exchange rates.
+* Update checkpoints data from 1 week ago.
+  For occasional unsuccessful transfers,it is more practical to shorten the time to try to reset the blockchain.
+* Update Simplified Chinese translation.
+
 V3.0.2
 * Update checkpoints and shorten the first synchronization time to less than 10 minutes.
 

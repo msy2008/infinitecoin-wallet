@@ -114,7 +114,7 @@
 	<string name="transaction_row_message_purpose_key_rotation">这项交易加强了您的钱包防盗能力。&lt;u&gt;更多信息.&lt;/u&gt;</string>
 	<string name="transaction_row_message_own_unbroadcasted">这笔款项尚未转帐,如果长时间卡住,尝试重置区块链解决.</string>
 	<string name="transaction_row_message_received_direct">此款项已经接受,但风险存在,可能不能作为发送支出的款项.</string>
-	<string name="transaction_row_message_received_unconfirmed_unlocked">此款项几分钟后成为可支配.</string>
+	<string name="transaction_row_message_received_unconfirmed_unlocked">此款项几分钟后成为可支配,如果长时间卡住,尝试重置区块链解决.</string>
 	<string name="transaction_row_message_received_unconfirmed_locked">此款项不标准,不应该被信任.</string>
 	<string name="transaction_row_message_received_dead">此款项已由发送人逆转.</string>
 	<string name="transaction_row_message_received_dust">这少量的应该或许永远不会在经济上消费.</string>

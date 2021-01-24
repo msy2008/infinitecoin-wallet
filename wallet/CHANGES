@@ -1,6 +1,12 @@
 
 Infinitecoin Wallet
 -----------------
+V3.0.4
+* Update checkpoint data to block height 6851520.
+* Fix crash on configuration change while payment request is fetched fr.
+* Prevent canceling progress when fetching payment request.
+* Try to solve the long time: this payment has not been transmitted yet.
+
 V3.0.3
 * fixed issues with fetching exchange rates.
 * Update checkpoints data from 1 week ago.
